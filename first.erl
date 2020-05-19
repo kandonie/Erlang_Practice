@@ -1,4 +1,4 @@
--module(exampleFunctions).
+-module(first).
 -export([double/1, mult/2, area/3, square/1, treble/1]).
 
 mult(X,Y) ->
